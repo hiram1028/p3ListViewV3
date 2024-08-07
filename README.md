@@ -17,3 +17,8 @@ Mas propiedades de list view
 ## ListView con ListTile con texto e iconos
 ## leading + trailing + subtitulos
 ![image](https://github.com/user-attachments/assets/e2cb76c1-94f6-4721-ab6f-444833e573cf)
+
+## Listview con ListTile con texto e iconos
+## leading + trailing + subtitulos + imagenes
+![image](https://github.com/user-attachments/assets/2a473616-4595-4e1f-9f3b-8bc38ed8573b)
+
